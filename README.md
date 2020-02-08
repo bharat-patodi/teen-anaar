@@ -1,3 +1,5 @@
+![Teen Anaar Icon](/src/assets/images/icon.svg "Teen Anaar icon")
+
 # Teen Anaar
 [d]: #teen-anaar
 **[STACK][s] | [USAGE][u] | [TESTS][t] | [DEPLOY][dep] | [CONTRIB][c] | [VERSION][v] | [AUTHOR][a] | [LICENSE][l] | [ACKNOWLEDGE][ack]**
@@ -78,5 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [ack]: #acknowledgements 'inspirations, and code gifts'
 
 * ReadMe templates from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) and [hinell](https://github.com/hinell/project-boilerplate/edit/master/README.md).
+* Icon credits: Pomegranate by Olga from the Noun Project
 
 **[ Go back to the top][d]**
