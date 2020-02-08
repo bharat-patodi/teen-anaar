@@ -2,6 +2,9 @@
 [d]: #teen-anaar
 **[STACK][s] | [USAGE][u] | [TESTS][t] | [DEPLOY][dep] | [CONTRIB][c] | [VERSION][v] | [AUTHOR][a] | [LICENSE][l] | [ACKNOWLEDGE][ack]**
 
+## [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+
 ... is a repository of the user's positive actions that they want to store for posterity. Every action changes the world around us. To be reminded of how we can constantly improve the world around us, we need to measure it.
 
 > That which can be measured, can be improved. -- **Multiple sources**
