@@ -1,5 +1,5 @@
 # Teen Anaar
-[d]: #project
+[d]: #teen-anaar
 **[STACK][s] | [USAGE][u] | [TESTS][t] | [DEPLOY][dep] | [CONTRIB][c] | [VERSION][v] | [AUTHOR][a] | [LICENSE][l] | [ACKNOWLEDGE][ack]**
 
 ... is a repository of the user's positive actions that they want to store for posterity. Every action changes the world around us. To be reminded of how we can constantly improve the world around us, we need to measure it.
@@ -7,7 +7,7 @@
 > That which can be measured, can be improved. -- **Multiple sources**
 
 ## Built With
-[s]: #stack 'S/w stack'
+[s]: #built-with 'S/w stack'
 
 * **React**: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 * **GraphQL** provides the data layer.
@@ -28,15 +28,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-## Running the tests
-[t]: #tests 'running the tests'
+## Testing
+[t]: #testing 'running the tests'
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
 
 ## Deployment
-[dep]: #deploy 'deploy the app for production'
+[dep]: #deployment 'deploy the app for production'
 
 ### `npm build`
 
@@ -47,9 +47,11 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 ## Contributing
-[c]: #contribution 'guidelines for contribution'
+[c]: #contributing 'guidelines for contribution'
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Versioning
 [v]: #versioning 'maintaining the different versions'
@@ -62,15 +64,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Bharat Patodi** - *Grunt Worker* [Twitter Profile]
 * **Sooraj** - *Reviewer* [Twitter Profile]
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 [l]: #license 'license type'
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Acknowledgements
 
 [ack]: #acknowledgements 'inspirations, and code gifts'
 
