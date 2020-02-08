@@ -1,4 +1,4 @@
-![Teen Anaar Icon](/src/assets/images/icon.svg "Teen Anaar icon")
+![Teen Anaar Icon](/src/assets/images/icon100x100.png "Teen Anaar icon")
 
 # Teen Anaar
 [d]: #teen-anaar
