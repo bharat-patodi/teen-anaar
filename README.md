@@ -1,6 +1,5 @@
-![Teen Anaar Icon](/src/assets/images/icon100x100.png "Teen Anaar icon")
+# ![Teen Anaar Icon](/src/assets/images/icon100x100.png "Teen Anaar icon") Teen Anaar
 
-# Teen Anaar
 [d]: #teen-anaar
 **[STACK][s] | [USAGE][u] | [TESTS][t] | [DEPLOY][dep] | [CONTRIB][c] | [VERSION][v] | [AUTHOR][a] | [LICENSE][l] | [ACKNOWLEDGE][ack]**
 
