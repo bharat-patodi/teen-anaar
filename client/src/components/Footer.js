@@ -7,7 +7,7 @@ class Footer extends React.Component {
     render() {
         return(
             <ul>
-<li>This is where the footer should reside.</li>
+                <li>This is where the footer should reside.</li>
                 <li>Link 2</li>
                 <li>Link 3</li>
                 <li>Or reclaiming the awards like 30 Under 30, oscars and shit.</li>
