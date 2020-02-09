@@ -81,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [ack]: #acknowledgements-❤️ 'inspirations, and code gifts'
 
 * ReadMe templates from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) and [hinell](https://github.com/hinell/project-boilerplate/edit/master/README.md).
-* Icon credits: Pomegranate by Olga from the Noun Project
+* Icon credits: [Pomegranate](https://thenounproject.com/term/pomegranate/2318106/) by Olga from the Noun Project
 
 **[ Go back to the top][d]**
