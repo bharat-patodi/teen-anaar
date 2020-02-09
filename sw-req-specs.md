@@ -8,7 +8,7 @@
 
 **Weekly scrum**:
 
-* Week One - Complete tooling.
+* Week One (3 Feb 2020 - 9 Feb 2020) - Finish tooling.
 
 **Daily scrum**:
 
