@@ -1,0 +1,3 @@
+# There has to be a better way to log the to do items, maybe try github projects...
+
+  * the readme files links with emojis are non-functional. They were working before.

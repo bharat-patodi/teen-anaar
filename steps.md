@@ -7,6 +7,11 @@
 
 `npm install graphql express-graphql`
 
+create the app.js file and add in the express code.
+
+Then for graphql, create a schema folder and house the schema.js file in there and define the schema in there.
+
+
 
 ### Prettier: https://thomlom.dev/setup-eslint-prettier-react/
 
