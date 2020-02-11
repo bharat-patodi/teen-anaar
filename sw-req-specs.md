@@ -8,7 +8,8 @@
 
 **Weekly scrum**:
 
-* Week One (3 Feb 2020 - 9 Feb 2020) - Finish tooling.
+* Week One (3 Feb 2020 - 9 Feb 2020) - Finish tooling. **Result**: Failed. Reasons were distraction and no external pressure. Last two days had external pressure and resulted in focussed work.
+* Week Two (10 Feb 2020 - 16 Feb 2020) - Finish tooling (since not done in the last week). Create a basic CRUD app with basic front-end and with completely functional tooling.
 
 **Daily scrum**:
 
