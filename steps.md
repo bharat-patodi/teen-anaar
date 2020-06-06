@@ -1,17 +1,18 @@
 ### Heroku?
 ### GraphQL?
 ### Express?
-### TailwindCSS?
 
 ### Express and GraphQL:
-
+Create the server folder, ```npm init``` and then install express w ```npm install express```
 `npm install graphql express-graphql`
 
 create the app.js file and add in the express code.
 
 Then for graphql, create a schema folder and house the schema.js file in there and define the schema in there.
 
+get lodash for ???
 
+try ```graphiql: true``` in the app.js file with the ```schema:schema``` defined. Reload.
 
 ### Prettier: https://thomlom.dev/setup-eslint-prettier-react/
 
@@ -63,3 +64,5 @@ then for the 'lint-staged', we need to define config:
 
 ### ESLint
 ... already pre-packaged with CRA
+
+Folder structure: Client with CRA and Server with npm init.
